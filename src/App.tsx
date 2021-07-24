@@ -4,22 +4,26 @@ import './reset.css';
 import './index.css';
 import './App.css';
 import tosslogo from './assets/toss logo.png';
+import tossVideo from './assets/toss-im-web-intro.mp4';
 
 function App() {
   return (
-    <Header>
-      <Logo src={tosslogo}/>
-      <Nav>
-        <a href="https://toss.im/team">회사 소개</a>
-        <a href="https://support.toss.im/">고객센터</a>
-        <a href="https://support.toss.im/faq">자주 묻는 질문</a>
-        <a href="https://toss.im/cert">공동인증서 관리</a>
-        <a href="https://toss.im/career">채용</a>
-        <a>KOR</a>
-        <div>|</div>
-        <a>ENG</a>
-      </Nav>
-    </Header>
+    <div>
+      <Header>
+        <Logo src={tosslogo}/>
+        <Nav>
+          <a href="https://toss.im/team">회사 소개</a>
+          <a href="https://support.toss.im/">고객센터</a>
+          <a href="https://support.toss.im/faq">자주 묻는 질문</a>
+          <a href="https://toss.im/cert">공동인증서 관리</a>
+          <a href="https://toss.im/career">채용</a>
+          <a>KOR</a>
+          <div>|</div>
+          <a>ENG</a>
+        </Nav>
+      </Header>
+        <Video src={tossVideo} autoPlay muted/>
+    </div>
   );
 }
 
@@ -34,7 +38,6 @@ const Header = styled.nav`
   justify-content: center;
   background-color: white;
   border-bottom: 0.5px solid rgb(223, 226, 229);
-
 `;
 
 const Nav = styled.div`
@@ -73,5 +76,8 @@ const Logo = styled.img`
 
 // const 
 
+const Video = styled.video`
+  width: 100%;
+`;
 
 export default App;
