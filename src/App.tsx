@@ -22,7 +22,10 @@ function App() {
           <a>ENG</a>
         </Nav>
       </Header>
+      <MainContainer>
         <Video src={tossVideo} autoPlay muted/>
+        <Gradient/>
+      </MainContainer>
     </div>
   );
 }
@@ -74,10 +77,20 @@ const Logo = styled.img`
   margin-right: min(20rem, 15%);
 `;
 
-// const 
+const MainContainer = styled.div`
+
+`;
 
 const Video = styled.video`
   width: 100%;
 `;
 
+const Gradient = styled.div`
+  position: absolute;
+  margin-top: 3.55rem;
+  top: 0;
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(to bottom, white 0%, transparent 100%);
+`;
 export default App;
