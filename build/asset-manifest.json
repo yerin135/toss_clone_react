@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/toss_clone_react/static/css/main.9d77662f.chunk.css",
+    "main.js": "/toss_clone_react/static/js/main.195b2669.chunk.js",
+    "main.js.map": "/toss_clone_react/static/js/main.195b2669.chunk.js.map",
+    "runtime-main.js": "/toss_clone_react/static/js/runtime-main.106e10d7.js",
+    "runtime-main.js.map": "/toss_clone_react/static/js/runtime-main.106e10d7.js.map",
+    "static/js/2.7750f936.chunk.js": "/toss_clone_react/static/js/2.7750f936.chunk.js",
+    "static/js/2.7750f936.chunk.js.map": "/toss_clone_react/static/js/2.7750f936.chunk.js.map",
+    "static/js/3.fad83976.chunk.js": "/toss_clone_react/static/js/3.fad83976.chunk.js",
+    "static/js/3.fad83976.chunk.js.map": "/toss_clone_react/static/js/3.fad83976.chunk.js.map",
+    "index.html": "/toss_clone_react/index.html",
+    "static/css/main.9d77662f.chunk.css.map": "/toss_clone_react/static/css/main.9d77662f.chunk.css.map",
+    "static/js/2.7750f936.chunk.js.LICENSE.txt": "/toss_clone_react/static/js/2.7750f936.chunk.js.LICENSE.txt",
+    "static/media/toss-im-web-intro.99359818.mp4": "/toss_clone_react/static/media/toss-im-web-intro.99359818.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.106e10d7.js",
+    "static/js/2.7750f936.chunk.js",
+    "static/css/main.9d77662f.chunk.css",
+    "static/js/main.195b2669.chunk.js"
+  ]
+}
