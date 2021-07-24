@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9d77662f.chunk.css",
-    "main.js": "/static/js/main.27b2397a.chunk.js",
-    "main.js.map": "/static/js/main.27b2397a.chunk.js.map",
+    "main.js": "/static/js/main.195b2669.chunk.js",
+    "main.js.map": "/static/js/main.195b2669.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0328060a.js",
     "runtime-main.js.map": "/static/js/runtime-main.0328060a.js.map",
     "static/js/2.7750f936.chunk.js": "/static/js/2.7750f936.chunk.js",
@@ -11,12 +11,13 @@
     "static/js/3.fad83976.chunk.js.map": "/static/js/3.fad83976.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.9d77662f.chunk.css.map": "/static/css/main.9d77662f.chunk.css.map",
-    "static/js/2.7750f936.chunk.js.LICENSE.txt": "/static/js/2.7750f936.chunk.js.LICENSE.txt"
+    "static/js/2.7750f936.chunk.js.LICENSE.txt": "/static/js/2.7750f936.chunk.js.LICENSE.txt",
+    "static/media/toss-im-web-intro.99359818.mp4": "/static/media/toss-im-web-intro.99359818.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.0328060a.js",
     "static/js/2.7750f936.chunk.js",
     "static/css/main.9d77662f.chunk.css",
-    "static/js/main.27b2397a.chunk.js"
+    "static/js/main.195b2669.chunk.js"
   ]
 }
