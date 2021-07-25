@@ -83,6 +83,7 @@ const MainContainer = styled.div`
 
 const Video = styled.video`
   width: 100%;
+  min-width: 1100px;
 `;
 
 const Gradient = styled.div`
